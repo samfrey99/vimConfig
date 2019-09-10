@@ -1,7 +1,7 @@
-[submodule "/Users/samfrey/.vim/bundle/Vundle.vim"]
+[submodule "bundle/Vundle.vim"]
 	path = /Users/samfrey/.vim/bundle/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim.git
-[submodule "/Users/samfrey/.vim/bundle/nerdtree"]
+[submodule "bundle/nerdtree"]
 	path = /Users/samfrey/.vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/nerdtree-git-plugin"]
